@@ -1,0 +1,7 @@
+a {
+    background-color: bisque;
+}
+
+a[target] {
+    background-color: hotpink;
+}
